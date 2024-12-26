@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Engenharia de Software - Universidade Católica de Brasília (2/8)
+  Engenharia de Software - Universidade Católica de Brasília (3/8)
 </p>
 
 <br>
