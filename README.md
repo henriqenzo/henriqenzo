@@ -15,5 +15,5 @@
 <h2 align="center" >⚒️ Skills ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,materialui,styledcomponents,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,materialui,styledcomponents,tailwind,figma,swift" />
 </div>
