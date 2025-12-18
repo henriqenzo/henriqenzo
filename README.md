@@ -9,7 +9,7 @@
 
 🍎 Recentemente, fui selecionado para participar de um programa de capacitação da Apple, voltado para o desenvolvimento de aplicativos no ecossistema iOS. Nesse momento, meus estudos estão concentrados no aprendizado de <strong>Swift</strong> e <strong>SwiftUI</strong>, com o objetivo de criar soluções elegantes, acessíveis e de alto desempenho para dispositivos Apple.
 
-📚 Na velocidade em que a tecnologia evolui, acredito que o aprendizado nunca deve parar. Sou um entusiasta do conhecimento contínuo e do estudo sobre hábitos, rotina e produtividade. Estou comprometido em crescer como desenvolvedor e pessoa, explorando novas tecnologias, metodologias e formas de pensar.
+📚 Na velocidade em que a tecnologia evolui, acredito que o aprendizado nunca deve parar. Sou um entusiasta do conhecimento contínuo e estou comprometido em crescer como desenvolvedor e pessoa, explorando novas tecnologias, metodologias e formas de pensar.
 </p>
 
 <h2 align="center" >⚒️ Skills ⚒️</h2>
